@@ -14,7 +14,7 @@ header:
 feature_row1:
   - url: "https://forms.gle/tvYPyhrPKpGGrLc56"
     btn_label: "Register Here"
-    btn_class: "btn--primary btn--primary"
+    btn_class: "btn--info btn--small"
 
 ---
 ### Course Introduction
@@ -46,10 +46,9 @@ In this course, we will use [JupyterLab](https://jupyterlab.readthedocs.io/en/st
 
 ### Registration and Cost
 {: style="text-align: left;"}
-The course is now open for registration, and for those who are interested in this course can register through Google form below:
+The course is now open for registration, and for those who are interested in this course can register through button below:
 {: style="text-align: left;"}
-* Register here: [Link](https://forms.gle/tvYPyhrPKpGGrLc56)
-{% include feature_row id="feature_row1" type="center" %}
+{% include feature_row id="feature_row1" type="left" %}
 * Registration deadline: <span style="color:#CB4335">23rd July 2021</span>
 {: style="text-align: left;"}
 
