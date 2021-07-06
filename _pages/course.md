@@ -13,7 +13,7 @@ header:
 # tagline: "Master your ability in spatial data analysis."
 feature_row1:
   - url: "https://forms.gle/tvYPyhrPKpGGrLc56"
-    btn_label: "Register Here"
+    btn_label: "Register Now"
     btn_class: "btn--success btn--primary"
 
 ---
