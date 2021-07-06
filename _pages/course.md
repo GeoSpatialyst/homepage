@@ -11,15 +11,11 @@ header:
   # - label: "<i class='btn--primary'></i> Course Details"
   #   url: "/course/class-overview/" 
 # tagline: "Master your ability in spatial data analysis."
+feature_row1:
+  - url: "https://forms.gle/tvYPyhrPKpGGrLc56"
+    btn_label: "Register Here"
+    btn_class: "btn--primary btn--primary"
 
-iframe_1:
-  - iframe_url: "https://www.youtube.com/embed/A5YyoCKxEOU"
-    # alt: "interactive_map"
-    # title_iframe: "3. Ability to create your own static or interactive map"
-    # excerpt_iframe: 'You can also create both static and interactive map for personal websites or share analyzed data to your friends.'
-    # url_iframe: "https://www.youtube.com/embed/A5YyoCKxEOU"
-    # btn_class: "btn--success btn--small"
-    # btn_label: "Click here to view full map"
 ---
 ### Course Introduction
 <span style="color:#3fa63f">**Geospatial Data Analysis with Python**</span>
@@ -52,7 +48,8 @@ In this course, we will use [JupyterLab](https://jupyterlab.readthedocs.io/en/st
 {: style="text-align: left;"}
 The course is now open for registration, and for those who are interested in this course can register through Google form below:
 {: style="text-align: left;"}
-* Register here: https://forms.gle/tvYPyhrPKpGGrLc56
+* Register here: [Link](https://forms.gle/tvYPyhrPKpGGrLc56)
+{% include feature_row id="feature_row1" type="center" %}
 * Registration deadline: <span style="color:#CB4335">23rd July 2021</span>
 {: style="text-align: left;"}
 
