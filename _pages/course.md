@@ -73,7 +73,7 @@ In this course, you will learn from the basic level of using Python for geospati
 - Plot vector data
 - Create geometries into GeoDataFrame
 - Analyze attribute data
-- Set and change the coordinate reference system of the data
+- Set and change the coordinate reference system of data
 {: style="text-align: left;"}
 **<span style="color:#CB4335">Session 3: Geocoding and nearest neighbour analysis</span>**
 {: style="text-align: left;"}
