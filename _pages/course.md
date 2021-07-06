@@ -14,7 +14,7 @@ header:
 feature_row1:
   - url: "https://forms.gle/tvYPyhrPKpGGrLc56"
     btn_label: "Register Here"
-    btn_class: "btn--info btn--small"
+    btn_class: "btn--success btn--primary"
 
 ---
 ### Course Introduction
@@ -46,9 +46,9 @@ In this course, we will use [JupyterLab](https://jupyterlab.readthedocs.io/en/st
 
 ### Registration and Cost
 {: style="text-align: left;"}
-The course is now open for registration, and for those who are interested in this course can register through button below:
+The course is now open for registration, and for those who are interested in this course can register through Google form below:
 {: style="text-align: left;"}
-{% include feature_row id="feature_row1" type="left" %}
+* Register here: [Link to register](https://forms.gle/tvYPyhrPKpGGrLc56)
 * Registration deadline: <span style="color:#CB4335">23rd July 2021</span>
 {: style="text-align: left;"}
 
@@ -110,3 +110,5 @@ In this course, you will learn from the basic level of using Python for geospati
 - Sample raster data using points
 - Extract cross-section shape from Digital Elevation Model
 {: style="text-align: left;"}
+
+{% include feature_row id="feature_row1" type="center" %}
