@@ -1,0 +1,37 @@
+{% if include.id %}
+  {% assign iframe = page[include.id] %}
+{% else %}
+  {% assign iframe = page.iframe %}
+{% endif %}
+
+<div class="iframe__wrapper">
+
+  {% for x in iframe %}
+    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+      <div class="archive__item">
+        {% if x.iframe_url %}
+          <div class="archive__item-teaser">
+            <iframe width="100%" height="400" src="{{ x.iframe_url | relative_url }}"
+                alt="{% if x.alt %}{{ x.alt }}{% endif %}" allowfullscreen="" frameborder="0"></iframe>
+          </div>
+        {% endif %}
+        <div class="archive__item-body">
+          {% if x.title_iframe %}
+            <h6 class="archive__item-title">{{ x.title_iframe }}</h6>
+          {% endif %}
+
+          {% if x.excerpt_iframe %}
+            <div class="archive__item-excerpt">
+              {{ x.excerpt_iframe | markdownify }}
+            </div>
+          {% endif %}
+
+          {% if x.url_iframe %}
+            <p><a href="{{ x.url_iframe | relative_url }}" class="btn {{ x.btn_class }}">{{ x.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+
+</div>

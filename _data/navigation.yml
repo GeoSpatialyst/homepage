@@ -1,0 +1,47 @@
+# main links
+main:
+  - title: "Home"
+    url: /homepage/
+  - title: "Course"
+    url: /course/
+  # - title: "About"
+  #   url: /about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+# documentation links
+docs:
+  - title: Getting Started
+    children:
+      - title: "Class overview"
+        url: /course/class-overview/
+      - title: "Class environment"
+        url: /course/class-environment/
+      - title: "Additional resources"
+        url: /course/additional-resources/
+      - title: "Terms of usage"
+        url: /course/terms-of-usage/
+  - title: Course Outline
+    children:
+      - title: "Session 1: Geometric Objects"
+        url: /course/session-1/
+      - title: "Session 2: Introduction to Geopandas and Map Projection"
+        url: /course/session-2/
+      - title: "Session 3"
+        url: /course/session-3/
+      - title: "Session 4"
+        url: /course/session-4/
+      - title: "Session 5"
+        url: /course/session-5/
+      - title: "Session 6"
+        url: /course/session-6/
+      - title: "Session 7"
+        url: /course/session-7/
+      - title: "Session 8"
+        url: /course/session-8/
+      - title: "Session 9"
+        url: /course/session-9/
