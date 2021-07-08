@@ -29,7 +29,7 @@ To gain the most from the course, it's necessary to know the basics of ArcGIS or
 
 ### Course Environment
 {: style="text-align: left;"}
-In this course, we will use [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html), a web-based user interface, as the main programming environment. It enables you to work with documents and activities such as Jupyter notebooks (`.ipynb`-files), text editors, terminals, and custom components in a flexible, integrated, and extensible manner. All of the code materials in this course are in `.ipynb`-files which you can run in JupyterLab on your own computer.
+In this online course, we will use [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html), a web-based user interface, as the main programming environment. It enables you to work with documents and activities such as Jupyter notebooks (`.ipynb`-files), text editors, terminals, and custom components in a flexible, integrated, and extensible manner. All of the code materials in this course are in `.ipynb`-files which you can run in JupyterLab on your own computer.
 {: style="text-align: left;"}
 
 ### Course Schedule
