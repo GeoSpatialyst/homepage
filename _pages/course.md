@@ -41,7 +41,7 @@ In this online course, we will use [JupyterLab](https://jupyterlab.readthedocs.i
 |          | 25/Jul/2021   | Sunday     | 10:00AM ~ 11:30AM  | 1h ~ 1h30       | 2. Vector data analysis and map projection              |
 | Week 2   | 31/Jul/2021   | Saturday   | 10:00AM ~ 11:30AM  | 1h ~ 1h30       | 3. Geocoding and nearest neighbour analysis             |
 |          | 01/Aug/2021   | Sunday     | 10:00AM ~ 11:30AM  | 1h ~ 1h30       | 4. Geometric operation and data classification          |
-| Week 3   | 07/Aug/2021   | Saturday   | 10:00AM ~ 11:30AM  | 1h ~ 1h30       | 5. Plotting static and interactive map on Leaftlet      |
+| Week 3   | 07/Aug/2021   | Saturday   | 10:00AM ~ 11:30AM  | 1h ~ 1h30       | 5. Plotting static and interactive map on Leaflet       |
 |          | 08/Aug/2021   | Sunday     | 10:00AM ~ 11:30AM  | 1h ~ 1h30       | 6. Satellite image analysis                             |
 
 ### Registration and Cost
@@ -52,7 +52,7 @@ The course is now open for registration, and for those who are interested in thi
 * Registration deadline: <span style="color:#CB4335">23rd July 2021</span>
 {: style="text-align: left;"}
 
-The cost to participate in this course is 40 USD.
+The cost to participate in this course is 40 USD, and you will be contacted about payment after you register.
 {: style="text-align: left;"}
 
 ### Course Objectives
@@ -92,7 +92,7 @@ In this course, you will learn from the basic level of using Python for geospati
 - Classify data features based on standard classification methods
 - Create custom classifier for data feature classification
 {: style="text-align: left;"}
-**<span style="color:#CB4335">Session 5: Plotting static and interactive map on Leaftlet</span>**
+**<span style="color:#CB4335">Session 5: Plotting static and interactive map on Leaflet</span>**
 {: style="text-align: left;"}
 - Create and customize static map with different background basemap 
 - Create and customize interactive map
