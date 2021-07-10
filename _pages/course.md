@@ -43,9 +43,10 @@ In this online course, we will use [JupyterLab](https://jupyterlab.readthedocs.i
 |          | 01/Aug/2021   | Sunday     | 10:00AM ~ 11:30AM  | 1h ~ 1h30       | 4. Geometric operation and data classification          |
 | Week 3   | 07/Aug/2021   | Saturday   | 10:00AM ~ 11:30AM  | 1h ~ 1h30       | 5. Plotting static and interactive map on Leaflet       |
 |          | 08/Aug/2021   | Sunday     | 10:00AM ~ 11:30AM  | 1h ~ 1h30       | 6. Satellite image analysis                             |
-
 **Notice:** The time to study might be changed to fit with everyone's schedule.
 {: .notice--primary}
+{: style="text-align: left;"}
+
 
 ### Registration and Cost
 {: style="text-align: left;"}
