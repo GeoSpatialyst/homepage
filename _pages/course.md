@@ -45,7 +45,6 @@ In this online course, we will use [JupyterLab](https://jupyterlab.readthedocs.i
 |          | 08/Aug/2021   | Sunday     | 10:00AM ~ 11:30AM  | 1h ~ 1h30       | 6. Satellite image analysis                             |
 
 ***Notice:*** The time to study might be changed to fit with everyone's schedule.
-{: .notice--primary}
 
 
 ### Registration and Cost
