@@ -44,6 +44,9 @@ In this online course, we will use [JupyterLab](https://jupyterlab.readthedocs.i
 | Week 3   | 07/Aug/2021   | Saturday   | 10:00AM ~ 11:30AM  | 1h ~ 1h30       | 5. Plotting static and interactive map on Leaflet       |
 |          | 08/Aug/2021   | Sunday     | 10:00AM ~ 11:30AM  | 1h ~ 1h30       | 6. Satellite image analysis                             |
 
+**Notice:** The time to study might be changed to fit with everyone's schedule.
+{: .notice--primary}
+
 ### Registration and Cost
 {: style="text-align: left;"}
 The course is now open for registration, and for those who are interested in this course can register through Google form below:
