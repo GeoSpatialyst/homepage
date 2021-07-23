@@ -12,8 +12,8 @@ header:
   #   url: "/course/class-overview/" 
 # tagline: "Master your ability in spatial data analysis."
 feature_row1:
-  - url: "https://forms.gle/tvYPyhrPKpGGrLc56"
-    btn_label: "Register Now"
+  # - url: "https://forms.gle/tvYPyhrPKpGGrLc56"
+    btn_label: "Register is Closed"
     btn_class: "btn--success btn--primary"
 
 ---
@@ -53,7 +53,7 @@ In this online course, we will use [JupyterLab](https://jupyterlab.readthedocs.i
 {: style="text-align: left;"}
 The course is now open for registration, and for those who are interested in this course can register through Google form below:
 {: style="text-align: left;"}
-* Register: [Click Here](https://forms.gle/tvYPyhrPKpGGrLc56)
+* Register: <span style="color:#CB4335">Closed</span>
 * Registration deadline: <span style="color:#CB4335">23rd July 2021</span>
 {: style="text-align: left;"}
 
