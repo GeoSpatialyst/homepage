@@ -11,10 +11,16 @@ header:
   # - label: "<i class='btn--primary'></i> Course Details"
   #   url: "/course/class-overview/" 
 # tagline: "Master your ability in spatial data analysis."
+poster:
+  - image_path: /image/Course_page/poster.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Left Aligned"
+
 feature_row1:
   # - url: "https://forms.gle/tvYPyhrPKpGGrLc56"
     btn_label: "Register is Closed"
     btn_class: "btn--success btn--primary"
+
 
 ---
 ### Course Introduction
@@ -24,9 +30,11 @@ feature_row1:
 
 <!-- ![image-left]({{ site.url }}{{ site.baseurl }}/image/Course_page/poster.jpg){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**. -->
 
-<figure style="width: 300px" class="align-left">
+<!-- <figure style="width: 300px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/image/Course_page/poster.jpg" alt="">
-</figure> 
+</figure>  -->
+
+{% include feature_row id="poster" type="left" %}
 
 ### Course Requirement
 {: style="text-align: left;"}
