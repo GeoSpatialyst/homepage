@@ -131,4 +131,4 @@ In this course, you will learn from the basic level of using Python for geospati
 {% include feature_row id="feature_row1" type="center" %}
 
 ### Poster
-{% include style="width: 300px" feature_row id="poster" type="left" %}
+{% include feature_row id="poster" type="left" %}
