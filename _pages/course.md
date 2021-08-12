@@ -24,9 +24,8 @@ feature_row1:
 
 <!-- ![image-left]({{ site.url }}{{ site.baseurl }}/image/Course_page/poster.jpg){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**. -->
 
-<figure style="width: 150px" class="align-left">
+<figure style="width: 300px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/image/Course_page/poster.jpg" alt="">
-  <figcaption>Itty-bitty caption.</figcaption>
 </figure> 
 
 ### Course Requirement
