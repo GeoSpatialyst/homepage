@@ -22,7 +22,12 @@ feature_row1:
  is an online training course provided by GeoSpatialyst to teach you how to programmatically analyze geospatial data with Python. The course consists of six interactive sessions starting from learning general operations on geometric features to analyzing satellite images (i.e. reading and writing raster formats). In this course, students will mostly sit in front of computer since they will learn to program and do pratical exercises in Python language alongside with the course convener. We will focus on applying programming skills to do various tasks without using any tool in GIS but producing the same or better result and faster than GIS.
  {: style="text-align: left;"}
 
-![image-left]({{ site.url }}{{ site.baseurl }}/image/Course_page/poster.jpg){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
+<!-- ![image-left]({{ site.url }}{{ site.baseurl }}/image/Course_page/poster.jpg){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**. -->
+
+<figure style="width: 150px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/image/Course_page/poster.jpg" alt="">
+  <figcaption>Itty-bitty caption.</figcaption>
+</figure> 
 
 ### Course Requirement
 {: style="text-align: left;"}
