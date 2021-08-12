@@ -13,8 +13,6 @@ header:
 # tagline: "Master your ability in spatial data analysis."
 poster:
   - image_path: /image/Course_page/poster.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
 
 feature_row1:
   # - url: "https://forms.gle/tvYPyhrPKpGGrLc56"
@@ -34,7 +32,7 @@ feature_row1:
   <img src="{{ site.url }}{{ site.baseurl }}/image/Course_page/poster.jpg" alt="">
 </figure>  -->
 
-{% include feature_row id="poster" type="left" %}
+
 
 ### Course Requirement
 {: style="text-align: left;"}
@@ -131,3 +129,6 @@ In this course, you will learn from the basic level of using Python for geospati
 {: style="text-align: left;"}
 
 {% include feature_row id="feature_row1" type="center" %}
+
+### Poster
+{% include style="width: 300px" feature_row id="poster" type="left" %}
