@@ -16,11 +16,17 @@ feature_row1:
     btn_label: "Register is Closed"
     btn_class: "btn--success btn--primary"
 
+poster:
+  - url: /image/Course_page/poster.jpg
+    image_path: /image/Course_page/poster.jpg
+
 ---
 ### Course Introduction
 <span style="color:#3fa63f">**Geospatial Data Analysis with Python**</span>
  is an online training course provided by GeoSpatialyst to teach you how to programmatically analyze geospatial data with Python. The course consists of six interactive sessions starting from learning general operations on geometric features to analyzing satellite images (i.e. reading and writing raster formats). In this course, students will mostly sit in front of computer since they will learn to program and do pratical exercises in Python language alongside with the course convener. We will focus on applying programming skills to do various tasks without using any tool in GIS but producing the same or better result and faster than GIS.
  {: style="text-align: left;"}
+
+ {% include poster %}
 
 ### Course Requirement
 {: style="text-align: left;"}
